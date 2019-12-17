@@ -1,0 +1,30 @@
+PATEL Deep - SI - Gp3 Inter
+
+Note correction : 
+
+Dans la mesure où mon code n'est pas finalisé voici la liste des composants qui fonctionnent pour faciliter la correction 
+
+- data2 : base de donnée utilisateur 
+
+- pour chaque balise input il est possible d'entrer des données que un par un (je ne sais pas pourquoi) 
+
+- Il y a seulement un minimum de blindage 
+
+- pas de registrer
+
+- modify account ok 
+
+- add card ok peu blindé
+De plus, on ne peux pas voir la card apres 
+
+- modify card : seulement le champs brand est modifiable 
+
+- deposit et withdrawal ok avec blindage 
+
+- transfer money non 
+
+
+
+N'ayant jamais fais de projet web avec HTML et CSS,  l'interface est tres degueulasse, vraiment désolé
+
+Merci pour votre temps !
